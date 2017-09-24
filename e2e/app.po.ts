@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class Ang4SeoPage {
+export class AppPage {
   navigateTo() {
     return browser.get('/');
   }
